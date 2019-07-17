@@ -67,3 +67,4 @@ echo "         ______________________________________________________
 xterm -e tail -f /var/log/apache2/access.log &
 clear
 exit
+TrackUrl
